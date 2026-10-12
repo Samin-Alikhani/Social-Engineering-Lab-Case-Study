@@ -164,9 +164,3 @@ The service was enabled and active at the time of the check. Request logs and id
 ![HTTP 404 response for the attempted record-file path](assets/record-path-404.png)
 
 The record-file URL returned HTTP 404. The hostname and terminal command have been removed.
-
-## AI Assistance
-
-I used ChatGPT/Codex to help interpret the assignment, draft HTML and PHP, troubleshoot configuration issues, and organize documentation.
-
-I executed the lab steps and verified the guidance through email self-tests, browser submissions, record inspection, service status checks, and HTTP requests. AI also assisted with drafting this case study.
