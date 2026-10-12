@@ -1,0 +1,19 @@
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Private reports and captures
+private/
+data/
+*.docx
+*.pdf
+*.eml
+*.jsonl
+*.pcap
+*.pcapng
+*.log
+.env
+.env.*
+
+# Operational lab implementation
+*.php
