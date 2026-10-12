@@ -139,7 +139,31 @@ For SOC work, the exercise reinforced the importance of analyzing sender identit
 
 ## Screenshots
 
-Sanitized screenshots can be added to [`assets/`](assets/README.md). No screenshots have been included yet.
+These screenshots were extracted from my course report. Email headers, browser address bars, and identifying terminal details were cropped or redacted. Captured credentials are not included.
+
+### Simulated Email
+
+![Simulated account-reactivation email with an orange button](assets/simulated-email.png)
+
+The self-test message rendered with university-style branding and a visible action button. This image shows the message body; the sender and recipient headers have been removed.
+
+### Lab Login Interface
+
+![Login interface hosted in the authorized cyber range](assets/lab-login-page.png)
+
+The lab page used locally served design assets. The browser address bar has been removed.
+
+### Web Service Status
+
+![Enabled and active PHP web service](assets/web-service-status.png)
+
+The service was enabled and active at the time of the check. Request logs and identifying terminal details have been removed.
+
+### Record Path Protection
+
+![HTTP 404 response for the attempted record-file path](assets/record-path-404.png)
+
+The record-file URL returned HTTP 404. The hostname and terminal command have been removed.
 
 ## AI Assistance
 
