@@ -2,6 +2,18 @@
 
 An authorized graduate cybersecurity lab demonstrating how a simulated phishing email, a replica login interface, and an HTTP server interact—and how defenders can investigate that activity.
 
+## Contents
+
+- [Overview](#overview)
+- [Tools and Technologies](#tools-and-technologies)
+- [Lab Architecture](#lab-architecture)
+- [Implementation](#implementation)
+- [Troubleshooting](#troubleshooting)
+- [Validation and Results](#validation-and-results)
+- [Defensive Analysis](#defensive-analysis)
+- [What I Learned](#what-i-learned)
+- [Screenshots](#screenshots)
+
 ## Overview
 
 I completed this exercise in an isolated university cyber range. The assignment involved creating a simulated account-reactivation email, hosting a lab login page, recording instructor-provided test submissions, and redirecting the browser after submission.
